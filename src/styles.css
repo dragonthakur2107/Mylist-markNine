@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.main-Img {
+  width: 400px;
+}
+.header-Text {
+  font-weight: bolder;
+  font-size: 30px;
+}
+.under-Text {
+  font-weight: bold;
+  font-size: 20px;
+}
+.genre-btn {
+  margin: 1rem;
+}
