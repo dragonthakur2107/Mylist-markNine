@@ -1,6 +1,9 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+  background-color: black;
+  color: white;
+  margin: 0rem;
 }
 .main-Img {
   width: 400px;
