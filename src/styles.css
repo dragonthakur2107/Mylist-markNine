@@ -6,7 +6,7 @@
   margin: 0rem;
 }
 .main-Img {
-  width: 400px;
+  width: 200px;
 }
 .header-Text {
   font-weight: bolder;
@@ -18,4 +18,8 @@
 }
 .genre-btn {
   margin: 1rem;
+}
+.description-Text {
+  margin: auto;
+  max-width: 300px;
 }
