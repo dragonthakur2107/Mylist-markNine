@@ -35,7 +35,7 @@ const genre = {
       image:
         "https://i.pinimg.com/736x/1e/45/c3/1e45c3264c5e7e80ceec01826ed0149c--white-supra-tuner-cars.jpg",
       description:
-        "A total beast of a car, most popular in the tunung world, the first thought when people talk about the world of tuner cars"
+        "A total beast of a car, most popular in the tuning world, the first thought when people talk about the world of tuner cars"
     },
     {
       name: "Nissan Skline GTR R-34",
